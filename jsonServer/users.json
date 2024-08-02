@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "password": "password123",
+      "id": "44e7"
+    },
+    {
+      "username": "janedoe",
+      "email": "janedoe@example.com",
+      "password": "password456",
+      "id": "a038"
+    },
+    {
+      "username": "bobsmith",
+      "email": "bobsmith@example.com",
+      "password": "password789",
+      "id": "70de"
+    },
+    {
+      "id": "bfbb",
+      "username": "jane_smith",
+      "email": "jane_smith@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "bcc0",
+      "username": "khalid",
+      "email": "khalid",
+      "password": "khalid"
+    },
+    {
+      "id": "217e",
+      "username": "omar",
+      "email": "osithiqw",
+      "password": "omar"
+    },
+    {
+      "id": "899f",
+      "username": "ahmed",
+      "email": "ahmed",
+      "password": "ahmed"
+    },
+    {
+      "id": "09af",
+      "username": "mahmoud",
+      "email": "kaka",
+      "password": "1234"
+    },
+    {
+      "id": "3c42",
+      "username": "kkjhj5",
+      "email": "khalid.sabbahlkj@k.com",
+      "password": "44",
+      "confirmPassword": "44"
+    },
+    {
+      "id": "6652",
+      "username": "Osama",
+      "email": "osamaee@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": "9f57",
+      "username": "ibrahem",
+      "email": "ibrahem@yahoo.com",
+      "password": "ibrahem",
+      "confirmPassword": "ibrahem"
+    }
+  ]
+}
